@@ -2,7 +2,7 @@
 * 🎓 I'm a 3rd Internet & Society excellence program student from The Hebrew University of Jerusalem
 * 🤓 I have a passion for exploring new technologies and developing software solutions
 * 💻 Seeking the next programming opportunity
-* 💼 Data analysis and web applications projects.
+* 💼 Data analysis and web application development.
 
 ### Tech Stack
 
