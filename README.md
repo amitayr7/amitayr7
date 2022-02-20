@@ -4,7 +4,7 @@
 * 💻 Seeking the next programming opportunity
 * 💼 Data analysis and web application development.
 
-#### 🧺 Check out **Kvisco**, the social laundry service, our final project of I&S studies: https://themoneylaundry-745ca.web.app/html/welcome.html
+#### Check out **Kvisco**🧺, the social laundry service, our final project of I&S studies: https://themoneylaundry-745ca.web.app/html/welcome.html
 
 ### Tech Stack
 
